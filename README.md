@@ -1,4 +1,6 @@
-# Recognizing-Shapes-in-Images-with-OpenCV
+# Recognizing Shapes in Images with OpenCV
+
+https://www.coursera.org/projects/recognizing-shapes-images-opencv
 
 This is a project-based course which should take approximately 1.5 hour to finish. 
 
